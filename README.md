@@ -27,4 +27,10 @@ for this purpose.
 
 ### Output:
 
+<img width="1920" height="1200" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/118d0e54-ef20-4f34-ac3f-321b089ef88c" />
+<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/982138be-72d6-4bcf-8cb8-19c2b7796917" />
+<img width="1920" height="1200" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/de7a34f4-690b-4241-b92e-da5928a6d457" />
+
+
+
 ### Result:
